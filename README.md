@@ -106,3 +106,19 @@ While the Poisson regression model is a good starting point for this problem, th
 5. **Regularization**: Apply regularization techniques, such as ridge or lasso regression, to prevent overfitting and improve the model's generalization performance.
 
 By continuously iterating and improving the model, better predictions can be achieved, leading to more accurate ring counting and potentially valuable insights into the underlying data.
+
+# Support and Contact
+
+If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
+
+# License
+
+This project is licensed under the **Apache 2.0 License**.
+
+# Share with the community
+
+If you find this project interesting or helpful, don't hesitate to share with your community! Let's learn and grow together!
+
+# Conclusion
+
+In this project, we’ve developed a robust solution for Poisson Regression Model. The model, a beacon of performance, awaits those go into the beautiful world of Python.
